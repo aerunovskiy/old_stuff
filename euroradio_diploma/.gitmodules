@@ -1,0 +1,3 @@
+[submodule "external/vlibs"]
+	path = external/vlibs
+	url = ssh://git@bb.niias:7999/~elapidae/vlibs.git
